@@ -16,6 +16,8 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+
+```
 <html>
 <head>
 <style type = "text/css">
@@ -68,8 +70,7 @@ p
             E-MAIL ID: naren.naga.1234@gmail.com</p>
 </body>
 </html>
- 
-
+```
 
 ## OUTPUT
 ![2023-05-27 (3)](https://github.com/NarendarNagalingamWEB/Ex05_Web-Design/assets/128288529/9cf907aa-817f-48ef-819f-384978c15478)
